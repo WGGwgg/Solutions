@@ -1,3 +1,5 @@
 # Solutions
-# soduku：ABC算法求解数独问题
-# Rain_drop：接雨水问题
+# soduku.py：
+ABC算法求解数独问题，效果一般
+# Rain_drop.py：
+接雨水问题
